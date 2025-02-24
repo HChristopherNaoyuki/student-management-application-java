@@ -124,5 +124,3 @@ Unit tests are provided in the `StudentTest.java` file. They verify:
 
 ### Run Tests
 Use a JUnit 4-compatible IDE or testing tool to run the tests.
-
-```
