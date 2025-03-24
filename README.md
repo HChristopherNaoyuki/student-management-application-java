@@ -50,7 +50,7 @@ Solution/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/student-management-application.git
+   git clone https://github.com/HChristopherNaoyuki/student-management-application-java.git
    cd student-management-application
    ```
 
