@@ -12,10 +12,12 @@ The **Student Management Application** is a simple console-based program for man
 
 ## Project Structure
 
+```bash
 Solution/
 ├── Student.java                   # Defines the Student class and its operations.
 ├── StudentManagementApplication.java # The main application with menu-driven functionality.
 └── StudentTest.java               # JUnit tests for the Student class methods.
+```
 
 ### Class Descriptions
 
