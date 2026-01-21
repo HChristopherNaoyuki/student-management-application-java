@@ -1,5 +1,9 @@
 # Student Management Application
 
+The **Student Management Application** is a simple console-based program for managing student records. 
+This project provides functionality for capturing, searching, deleting, and generating reports of student 
+records. It is built in Java and includes unit tests using JUnit for ensuring functionality.
+
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -8,10 +12,6 @@
 - [Sample Usage](#sample-usage)
 - [Testing](#testing)
 - [Disclaimer](#disclaimer)
-
-The **Student Management Application** is a simple console-based program for managing student records. 
-This project provides functionality for capturing, searching, deleting, and generating reports of student 
-records. It is built in Java and includes unit tests using JUnit for ensuring functionality.
 
 ## Features
 - **Capture New Student**: Add new student records with details like ID, name, age, email, and course.
